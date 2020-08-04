@@ -6,7 +6,9 @@ Feel free to contact me. I love to meet new people - and I'd love to train my en
 
 Currently I'm looking for my first programming job. And I ❤️ ReactJS 😍
 
-Would be nice to meet you!
+Nowadays I'm working hard on my studies. I don't know yet how I can help the GitHub community, so I pass the most of my time training algorithms and doing some fictional app. And I'm on preparation to start my System Analysis & Dev graduation 😍 looking forward to start!
+
+Wanna talk about code, music or my country? Would be nice to meet you!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelnsc/)](https://www.linkedin.com/in/michaelnsc/)
 
