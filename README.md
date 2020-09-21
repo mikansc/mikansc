@@ -1,3 +1,5 @@
+[view in english](./README-en.md)
+
 ### Opa, e aí! 👋
 
 Meu nome é Michael Nascimento - mais conhecido como Mika -  eu eu sou um músico brasileiro, tentando aprender algo divertido! Programação me encantou e parece ter sido a escolha certa.
