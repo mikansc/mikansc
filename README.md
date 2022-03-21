@@ -2,10 +2,8 @@
 
 ### Opa, e aí! 👋
 
-Meu nome é Michael Nascimento - mais conhecido como Mika -  eu eu sou um músico brasileiro, tentando aprender algo divertido! Programação me encantou e parece ter sido a escolha certa.
+Meu nome é Michael Nascimento - mais conhecido como Mika -  e sou um desenvolvedor e professor brasileiro com paixão por front end e ReactJS.
 
-Sinta-se a vontade para entrar em contato comigo. Adoro conhecer pessoas novas e trocar experiências.
-
-Quer conversar sobre música, programação ou qualquer coisa? Será um prazer! Me encontra nas redes sociais abaixo
+Gosto de programar quando não estou trabalhando, e este repositório do Github tem alguns dos meus trabalhos com os meus alunos.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelnsc/)](https://www.linkedin.com/in/michaelnsc/)
